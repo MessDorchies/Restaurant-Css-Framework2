@@ -1,4 +1,3 @@
-# restaurant-css-framework
 # TKLS FOOD Burgers & Beer Tkls Food
 
 TKLS-Food is a restaurant inspired by the burger universe associated with a new beer every month. 
@@ -8,9 +7,6 @@ Discover its qualitative, friendly and generous cuisine made on site by its team
 
 Create in 3 days a responsive website composed of 5 pages: welcome, menu, pictures, restaurants and contact.
                    
-
-
-
 
 
 ### Links pages projet Tkls food 
