@@ -5,7 +5,7 @@ Discover its qualitative, friendly and generous cuisine made on site by its team
                   
 ### The mission
 
-Create in 3 days a responsive website composed of 5 pages: welcome, menu, pictures, restaurants and contact.
+Create in 3 days a responsive website including 5 pages: welcome, menu, pictures, restaurants and contact.
                    
 
 
