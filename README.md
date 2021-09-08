@@ -7,7 +7,7 @@ Discover its qualitative, friendly and generous cuisine made on site by its team
 
 Create in 3 days a responsive website including 5 pages: welcome, menu, pictures, restaurants and contact.
                    
-[Visited the Web site](https://messdorchies.github.io/Restaurant-Css-Framework2/Acceuil.html)
+[Visit the Web site](https://messdorchies.github.io/Restaurant-Css-Framework2/Acceuil.html)
 
 ### Links pages projet Tkls food 
 
