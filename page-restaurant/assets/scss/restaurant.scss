@@ -27,7 +27,7 @@ html{
 
     header{
           
-        scroll-snap-align: start;
+        
         min-height:6vh;
         width: 98.2vw;
         text-align: center;
@@ -84,8 +84,7 @@ html{
     /*===================================== Snap scroll ========================================================*/
 
     .container{
-        scroll-snap-type: y mandatory;
-        overflow-y: scroll;
+        
         height: 100vh;
         max-width: 100vw;
     }
@@ -93,7 +92,7 @@ html{
     section{
         max-width: 100vw;
         min-height: 100vh;
-        scroll-snap-align: start;
+        
     }
 
     /*===================================== About ========================================================*/
